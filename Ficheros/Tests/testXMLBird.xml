@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bird>
+    <coordinate>1.0,0.0</coordinate>
+    <nombre/>
+    <size>
+        <heigh>2.0</heigh>
+        <width>4.0</width>
+    </size>
+    <speed>0.2</speed>
+</bird>

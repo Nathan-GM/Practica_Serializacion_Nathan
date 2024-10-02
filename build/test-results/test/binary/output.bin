@@ -1,0 +1,9 @@
+
+XML
+kBird{name='null', speed=0.2, size=Size [Heigh = 2.0, Width = 4.0], coordinate=Point2D [x = 1.0, y = 0.0]}
+bCactus{name='null', size=Size [Heigh = 0.0, Width = 1.0], coordinate=Point2D [x = 4.0, y = 2.0]}
+
+JSON
+kBird{name='null', speed=0.2, size=Size [Heigh = 2.0, Width = 4.0], coordinate=Point2D [x = 1.0, y = 0.0]}
+bCactus{name='null', size=Size [Heigh = 0.0, Width = 1.0], coordinate=Point2D [x = 4.0, y = 2.0]}
+

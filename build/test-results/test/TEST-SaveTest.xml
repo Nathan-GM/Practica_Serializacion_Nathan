@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SaveTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-02T21:00:00" hostname="DESKTOP-8HN8JJG" time="0.13">
+  <properties/>
+  <testcase name="loadTest()" classname="SaveTest" time="0.13"/>
+  <system-out><![CDATA[
+XML
+Bird{name='null', speed=0.2, size=Size [Heigh = 2.0, Width = 4.0], coordinate=Point2D [x = 1.0, y = 0.0]}
+Cactus{name='null', size=Size [Heigh = 0.0, Width = 1.0], coordinate=Point2D [x = 4.0, y = 2.0]}
+
+JSON
+Bird{name='null', speed=0.2, size=Size [Heigh = 2.0, Width = 4.0], coordinate=Point2D [x = 1.0, y = 0.0]}
+Cactus{name='null', size=Size [Heigh = 0.0, Width = 1.0], coordinate=Point2D [x = 4.0, y = 2.0]}
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
